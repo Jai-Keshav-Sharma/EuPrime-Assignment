@@ -1,0 +1,96 @@
+{
+  "leads": [
+    {
+      "name": "Jonathan Jackson",
+      "title": "Research and Development LifeSciences Director",
+      "company": "LifeNet Health",
+      "person_locaton": "Groton, Connecticut",
+      "company_hq": "Virginia Beach, Virginia",
+      "work_mode": "Remote",
+      "email": "jonathan_jackson@lifenethealth.org",
+      "publications": [
+        "Moving beyond Binary Predictions of Human Drug-Induced Liver Injury (2019 - but relevant to his work as DILI SME at Pfizer)",
+        "Early Drug-Induced Liver Injury Risk Screening (2022 - as DILI SME at Pfizer)"
+      ]
+    },
+    {
+      "name": "Samantha Wilcoxson",
+      "title": "Principal Scientist",
+      "company": "Amgen",
+      "person_locaton": "San Francisco, California",
+      "company_hq": "Thousand Oaks, California",
+      "work_mode": "Remote",
+      "email": "swilcoxs@amgen.com",
+      "publications": []
+    },
+    {
+      "name": "Maria Ellis",
+      "title": "Executive Director, Head of Safety Science",
+      "company": "Daiichi Sankyo",
+      "person_locaton": "Philadelphia, Pennsylvania",
+      "company_hq": "Basking Ridge, New Jersey",
+      "work_mode": "Remote",
+      "email": "maria.ellis@daiichisankyo.com",
+      "publications": []
+    },
+    {
+      "name": "Robert Fontana",
+      "title": "Professor of Internal Medicine, Medical Director of Liver Transplantation",
+      "company": "University of Michigan",
+      "person_locaton": "Ann Arbor, Michigan",
+      "company_hq": "Ann Arbor, Michigan",
+      "work_mode": "Onsite",
+      "email": "rfontana@umich.edu",
+      "publications": [
+        "First Report of Tirzepatide Hepatotoxicity with Jaundice (2024)",
+        "Review article: Recommendations for detection, assessment and management of suspected drug-induced liver injury during clinical trials in oncology patients (2024)",
+        "The Evolving Profile of Idiosyncratic Drug-Induced Liver Injury (2023)",
+        "Drug-Induced Liver Injury [DILI] ascribed to Non-steroidal Anti-inflammatory Drugs [NSAIDs] in the USA (2024)",
+        "Estimated Exposure to 6 Potentially Hepatotoxic Botanicals in US Adults (2024)"
+      ]
+    },
+    {
+      "name": "Paul Watkins",
+      "title": "Verne S. Caviness Professor of Medicine, Director",
+      "company": "University of North Carolina Institute for Drug Safety Sciences",
+      "person_locaton": "Durham, North Carolina",
+      "company_hq": "Durham, North Carolina",
+      "work_mode": "Onsite",
+      "email": "pwatkins@northcarolina.edu",
+      "publications": [
+        "Features and outcomes of 899 patients with drug-induced liver injury: the DILIN prospective study (ongoing research)",
+        "Blood toxicogenomics reveals potential biomarkers for management of idiosyncratic drug-induced liver injury (2023-2024 timeframe)"
+      ]
+    },
+    {
+      "name": "Victor Navarro",
+      "title": "Medical Director of Hepatology and Liver Transplantation, Department Chair",
+      "company": "Jefferson Health",
+      "person_locaton": "Philadelphia, Pennsylvania",
+      "company_hq": "Philadelphia, Pennsylvania",
+      "work_mode": "Onsite",
+      "email": "victor.navarro@jefferson.edu",
+      "publications": [
+        "Case definition and phenotype standardization in drug-induced liver injury (2011 - foundational work, ongoing contributor to DILI research)",
+        "Drug-induced liver injury: recent advances in diagnosis and risk stratification (2017 - ongoing research lead)",
+        "Contributor to DILI research through Jefferson Health and Drug Induced Liver Injury Network"
+      ]
+    },
+    {
+      "name": "Guruprasad Aithal",
+      "title": "Professor, NIHR Nottingham Biomedical Research Centre",
+      "company": "University of Nottingham",
+      "person_locaton": "Nottingham, United Kingdom",
+      "company_hq": "Nottingham, United Kingdom",
+      "work_mode": "Onsite",
+      "email": "guru.aithal@nottingham.ac.uk",
+      "publications": [
+        "Case Definition and Phenotype Standardization in Drug-Induced Liver Injury (2011 - foundational)",
+        "Drug-induced liver injury: recent advances in diagnosis and risk stratification (2017)",
+        "Pharmacogenomics of drug-induced liver injury (DILI) (2018)",
+        "Biomarkers of idiosyncratic drug-induced liver injury (DILI): a systematic review (2021)",
+        "Member of CIOMS Working Group on Drug-Induced Liver Injury"
+      ]
+    }
+  ]
+}

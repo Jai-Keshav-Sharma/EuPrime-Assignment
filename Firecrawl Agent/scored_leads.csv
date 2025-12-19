@@ -1,0 +1,8 @@
+rank,probability_score,name,title,company,person_locaton,company_hq,work_mode,email
+1,100,Robert Fontana,"Professor of Internal Medicine, Medical Director of Liver Transplantation",University of Michigan,"Ann Arbor, Michigan","Ann Arbor, Michigan",Onsite,rfontana@umich.edu
+2,85,Paul Watkins,"Verne S. Caviness Professor of Medicine, Director",University of North Carolina Institute for Drug Safety Sciences,"Durham, North Carolina","Durham, North Carolina",Onsite,pwatkins@northcarolina.edu
+3,75,Maria Ellis,"Executive Director, Head of Safety Science",Daiichi Sankyo,"Philadelphia, Pennsylvania","Basking Ridge, New Jersey",Remote,maria.ellis@daiichisankyo.com
+4,45,Victor Navarro,"Medical Director of Hepatology and Liver Transplantation, Department Chair",Jefferson Health,"Philadelphia, Pennsylvania","Philadelphia, Pennsylvania",Onsite,victor.navarro@jefferson.edu
+5,30,Samantha Wilcoxson,Principal Scientist,Amgen,"San Francisco, California","Thousand Oaks, California",Remote,swilcoxs@amgen.com
+6,15,Jonathan Jackson,Research and Development LifeSciences Director,LifeNet Health,"Groton, Connecticut","Virginia Beach, Virginia",Remote,jonathan_jackson@lifenethealth.org
+7,15,Guruprasad Aithal,"Professor, NIHR Nottingham Biomedical Research Centre",University of Nottingham,"Nottingham, United Kingdom","Nottingham, United Kingdom",Onsite,guru.aithal@nottingham.ac.uk
