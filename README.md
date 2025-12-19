@@ -103,9 +103,15 @@ Tried several technical approaches documented in these files:
 - ❌ Unable to scrape profile data from these URLs due to LinkedIn blocks
 - ⚠️ Alternative approaches yielded incomplete or unreliable data
 
+  
+
+https://github.com/user-attachments/assets/5e769fb5-aefc-4476-baf5-77d34ea6e2f3
+
+
+
 **Files Generated**:
-- `google.csv` - 300+ LinkedIn profile URLs
-- `enriched_leads.csv` - Partially enriched data from alternative sources
+- `google.csv` - 300+ LinkedIn profile URLs (https://docs.google.com/spreadsheets/d/1hWbLBEjTOdPgo8pb74Qdz_uZ1XSYIgPw9a6xMyZlxz4/edit?usp=sharing)
+- `enriched_leads.csv` - Partially enriched data from alternative sources (https://docs.google.com/spreadsheets/d/1Vgllz4kvqdUmw3CtnzbHQNhvdZnXQkdF2XZO7RNMEto/edit?usp=sharing)
 
 ---
 
@@ -160,6 +166,11 @@ After the heuristic approach failed, I used **Firecrawl API** - a commercial web
 
 ### Results:
 
+
+
+https://github.com/user-attachments/assets/7474008d-d4bd-4c29-b2ab-f33feb111c76
+
+
 **7 high-quality leads extracted** with complete information:
 
 | Rank | Score | Name | Title | Company |
@@ -181,7 +192,7 @@ After the heuristic approach failed, I used **Firecrawl API** - a commercial web
 
 ### Files Generated:
 - `leads.json` - Raw structured data from Firecrawl
-- `scored_leads.csv` - Ranked leads with probability scores
+- `scored_leads.csv` - Ranked leads with probability scores (https://docs.google.com/spreadsheets/d/1RqxshqC86GBfhYSfyU-d-qifuVfPq0Zbaq3VYm7YZlk/edit?usp=sharing)
 - `dashboard.py` - Interactive Streamlit dashboard
 
 ---
