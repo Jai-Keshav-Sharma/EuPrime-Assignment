@@ -297,8 +297,8 @@ async def main():
     pipeline = LeadGenerationPipeline(
         input_csv="google.csv",
         output_csv="enriched_leads.csv",
-        linkedin_email="freefire.ytfate@gmail.com",
-        linkedin_password="im@Mortal123"
+        linkedin_email="***",
+        linkedin_password="***"
     )
     
     # Run pipeline
